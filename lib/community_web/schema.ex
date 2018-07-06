@@ -15,5 +15,5 @@ defmodule CommunityWeb.Schema do
         resolve &NewsResolver.all_links/3
     end
   end
-  
+
 end
